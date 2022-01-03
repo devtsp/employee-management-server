@@ -1,0 +1,4 @@
+// Random crypto bytes-string: vía node core module 'crypto', we're going to use them to set the access and refresh token secrets on '.env' file
+
+> node
+> require('crypto').randomBytes(64).toString('hex')

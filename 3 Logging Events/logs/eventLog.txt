@@ -1,0 +1,2 @@
+20220101	02:04:06	cc49060c-1b39-42c6-b419-a9d7866f2c54	Log event emmited!
+20220101	02:05:14	3dc93ebc-8c97-4b27-9053-58164a79d5ca	Log event emmited!
