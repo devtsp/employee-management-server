@@ -18,12 +18,12 @@ const app = express();
 connectDB();
 
 // MIDDLEWARE
-app.use(logger);
 app.use(credentials);
 app.use(cors());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.use(cookieParser());
+app.use(logger);
 
 // ROUTES
 app.use('/', express.static(path.join(__dirname, '/public')));
@@ -35,6 +35,7 @@ app.use('/logout', require('./routes/logout'));
 // Protected middleware + routes from this point
 app.use(verifyJWT);
 app.use('/employees', require('./routes/api/employees'));
+app.use('/users', require('./routes/api/users'));
 
 // Incorrect routes
 app.all('*', (req, res) => {

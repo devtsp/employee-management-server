@@ -172,3 +172,65 @@
 20220109	11:50:14	d9fd9351-98ce-457a-94ae-950ffeab1720	DELETE	undefined	/employees
 20220109	11:50:19	7f539377-daaa-4415-b089-d04061ac6dcf	POST	undefined	/auth
 20220109	11:50:36	b7a70d3a-15a3-4b0f-a10f-2510fa69719a	DELETE	undefined	/employees
+20220524	00:05:06	9d0cb83f-f3db-40b0-9337-0ed0fedd069d	GET	undefined	/
+20220524	00:05:06	b1061508-a840-4c5c-ba5c-d3613e214ee5	GET	undefined	/css/style.css
+20220524	00:05:06	5c43aaed-967c-4b67-b52c-f5be6b999dd8	GET	undefined	/favicon.ico
+20220524	00:05:13	cccafea3-b1b7-4a35-9283-b0c35c7d4be1	GET	undefined	/public
+20220524	00:05:13	1dcd1574-a834-478a-9438-83733d50829e	GET	undefined	/favicon.ico
+20220524	00:05:37	b123d5c7-19a5-42be-b600-9793fb96984c	GET	undefined	/public/static.json
+20220524	00:05:37	9dfb34d8-a0d4-46cf-880b-080ddd68949d	GET	undefined	/favicon.ico
+20220524	00:09:40	0b7f8ee7-49b1-4190-ace8-d08558b23e24	GET	undefined	/public/static.json
+20220524	00:09:40	09036f65-a610-4181-9fb0-b9811091b76f	GET	undefined	/favicon.ico
+20220524	00:11:52	c62dab37-823e-44de-8625-57fbd069e584	GET	undefined	/public/static.json
+20220524	00:11:52	ef491b99-811a-4cdd-96b5-38fe2b5aa54b	GET	undefined	/favicon.ico
+20220524	00:12:16	46dd781b-adfc-4d79-965e-016d8eebd466	GET	undefined	/public/static.json
+20220524	00:12:16	08dd055e-6ced-403d-9f91-611b7fe5efd1	GET	undefined	/favicon.ico
+20220524	00:12:17	696f9883-be74-4846-a867-1a6f5e42693c	GET	undefined	/
+20220524	00:12:17	bddb1119-5911-4746-94ba-85e9a1552be3	GET	undefined	/css/style.css
+20220524	00:12:17	78de6575-1cc9-4e22-92f2-4ae70475d3fb	GET	undefined	/favicon.ico
+20220524	00:12:20	66295b74-18dd-40a3-9e78-0fd05e5865bf	GET	undefined	/
+20220524	00:12:20	9978e75e-384c-40a1-bc44-04c916ecab49	GET	undefined	/css/style.css
+20220524	00:12:20	eb723ecc-e470-42d1-8553-606cc40f372e	GET	undefined	/favicon.ico
+20220524	00:13:01	bb62c048-c33a-4d7c-95fa-4def1f6b18db	GET	undefined	/
+20220524	00:13:01	f39196b3-7071-4ccf-88b0-25a47514929c	GET	undefined	/css/style.css
+20220524	00:13:01	dab983ff-8e02-47f6-84a0-6b49c3d83e92	GET	undefined	/favicon.ico
+20220524	00:13:13	059f7fd7-cca3-4f0b-a28a-6979376e83e4	GET	undefined	/
+20220524	00:13:13	4fc79a1a-47ac-476c-80ce-dbf84f17427d	GET	undefined	/css/style.css
+20220524	00:13:13	74ffff7d-78b7-4d9f-990f-7b8fe6896e62	GET	undefined	/favicon.ico
+24/05/2022-00:17:55	6ab30677-524e-4340-a1f8-0eb201454ec4	undefined GET	undefined	/
+24/05/2022-00:17:55	dc7eeb57-d524-45df-bed6-2af9a959df6c	http://localhost:3500/ GET	http://localhost:3500/	/css/style.css
+24/05/2022-00:17:55	b2783bd5-b25b-45cc-ae83-dc2554ea3052	http://localhost:3500/ GET	http://localhost:3500/	/favicon.ico
+24/05/2022-00:17:57	c1c58ce4-89bd-4072-82be-560ba511ad3f	undefined GET	undefined	/
+24/05/2022-00:17:57	89e42f91-9048-473a-87c5-662ca4a3432e	http://localhost:3500/ GET	http://localhost:3500/	/css/style.css
+24/05/2022-00:17:57	43a9b67a-7a80-4d7a-9c1e-7d9ba6ffa8a1	http://localhost:3500/ GET	http://localhost:3500/	/favicon.ico
+24/05/2022-00:18:54	150db767-8c27-4120-9262-4c7f823ad34c	undefined	GET	/
+24/05/2022-00:18:54	1c5c377c-839f-493d-9bbe-a7b72a91428d	http://localhost:3500/	GET	/css/style.css
+24/05/2022-00:18:54	b15c0c09-e0be-472a-b17b-87d408a30467	http://localhost:3500/	GET	/favicon.ico
+24/05/2022-00:19:58	bac5451b-23f9-4add-8b41-55dc81b6ab3b	undefined	GET	/
+24/05/2022-00:19:58	0971ec37-e8f9-45d2-b4ed-75ca0e5f58ae	http://localhost:3500/	GET	/css/style.css
+24/05/2022-00:19:59	a13c10ab-f4da-49bf-8565-5ffe59e90d50	http://localhost:3500/	GET	/favicon.ico
+24/05/2022-00:22:58	920c8fe7-121c-49f1-a201-e5d035c97b83	undefined	GET	/
+24/05/2022-00:22:58	bd739581-74ee-49f4-a30f-f74dba862450	http://localhost:3500/	GET	/css/style.css
+24/05/2022-00:22:58	e9f2c789-d7ff-47d0-a7e0-2cf044b289ec	http://localhost:3500/	GET	/favicon.ico
+24/05/2022-00:23:11	da1fff34-df55-4088-b960-d1fab73538e9	undefined	GET	/public
+24/05/2022-00:23:12	90bea8f8-e924-401d-af31-a9db2767cb85	http://localhost:3500/public	GET	/favicon.ico
+24/05/2022-00:26:07	71517041-9641-4866-9dc3-bb91298ea8c4	undefined	GET	/public
+24/05/2022-00:26:07	57216690-3ba7-473e-92d9-0d63e709fce9	http://localhost:3500/public	GET	/favicon.ico
+24/05/2022-00:26:58	ed6434c5-c98d-42c9-95fb-c648b43edf5a	undefined	GET	/static.json
+24/05/2022-00:26:58	9d754f3c-625f-453f-ad40-559e78c27094	http://localhost:3500/static.json	GET	/favicon.ico
+24/05/2022-00:27:09	2e44aa93-426f-4345-a830-53cbff2df1cc	undefined	GET	/static
+24/05/2022-00:27:10	6b10d422-dd37-4caf-81dc-57e0cec676d1	http://localhost:3500/static	GET	/favicon.ico
+24/05/2022-00:27:13	ac73805c-bea7-4aaa-a618-c807466b5c4c	undefined	GET	/static.json
+24/05/2022-00:27:13	33a0feef-85d2-43c1-bb64-fbc1f7c17c3e	http://localhost:3500/static.json	GET	/favicon.ico
+24/05/2022-00:32:53	6be5a6e1-9854-4d92-968f-202de68cd8df	undefined	GET	/
+24/05/2022-00:32:53	5a3bfba3-d216-4072-bd5b-3ea35af0a470	http://localhost:3500/	GET	/css/style.css
+24/05/2022-00:32:53	5025b4c3-8afb-455a-a647-902f235583ac	http://localhost:3500/	GET	/favicon.ico
+24/05/2022-03:40:03	279bedbd-005e-4d23-9d7c-9c4a2fcbaefa	undefined	GET	/
+24/05/2022-03:42:16	6bef7ad8-6465-46c9-9e43-982b02743acd	undefined	GET	/
+24/05/2022-03:46:01	6cdfb95e-2a4e-477b-a25a-dc73332354ce	undefined	GET	/employees
+24/05/2022-03:46:05	92aaba04-b3b4-47b7-8bdb-5997f92ac39b	undefined	GET	/
+24/05/2022-03:46:39	64b17682-05ef-4f88-99dd-385aa0d79d5b	undefined	GET	/index
+24/05/2022-03:48:46	61cc7ec2-6835-4620-8c62-d7de518a5ead	undefined	POST	/register
+24/05/2022-03:49:26	9e72292d-44ea-463c-8398-a25ff65e64f1	undefined	POST	/register
+24/05/2022-03:49:56	765d652f-b102-4d2e-9984-f14a3f9bfddc	undefined	POST	/register
+24/05/2022-03:50:15	8cd76936-2c15-442e-a2a6-669a5d6b69e0	undefined	POST	/register
