@@ -22,11 +22,11 @@ All following routes will have to provide a fresh `acessToken` as `'Bearer [acce
 
 | Method | Endpoint | Request Body | Allowed Roles | Description
 | :---:  | ---     | ---   | --- | ---
-| `GET` | `/employees` |  | no verification of roles (all access) | return all employees 
-| `GET` | `/employees/:id` |  | no verification of roles (all access) | return single employee
-| `POST` | `/employees` | `firstname, lastname` | Admin / Editor (`[5150, 1984]`) | create employee
-| `PUT` | `/employees` | `id, firstname, lastname` | Admin / Editor (`[5150, 1984]`) | update employee 
-| `DELETE` | `/employees` | `id` | Admin (`[5150]`) | remove employee
+| `GET` | `/employees` |  | all | return all employees 
+| `GET` | `/employees/:id` |  | all | return single employee
+| `POST` | `/employees` | `firstname, lastname` | Admin / Editor | create employee
+| `PUT` | `/employees` | `id, firstname, lastname` | Admin / Editor | update employee 
+| `DELETE` | `/employees` | `id` | Admin | remove employee
 
 
 
