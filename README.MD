@@ -15,10 +15,11 @@
  
 <br/> 
 
-### Employee API (protected and authorized routes):
 All following routes will have to provide a fresh `acessToken` as `'Bearer [accessToken]'` in authorization header
 
 <br/> 
+
+### Employee API:
 
 | Method | Endpoint | Request Body | Allowed Roles | Description
 | :---:  | ---     | ---   | --- | ---
@@ -28,6 +29,23 @@ All following routes will have to provide a fresh `acessToken` as `'Bearer [acce
 | `PUT` | `/employees` | `id, firstname, lastname` | Admin / Editor | update employee 
 | `DELETE` | `/employees` | `id` | Admin | remove employee
 
+<br/> 
+
+### User API (Only Admin allowed):
+
+| Method | Endpoint | Request Body  | Description
+| :---:  | ---     | ---   | --- 
+| `GET` | `/users` |  |  return all users 
+| `GET` | `/users/:id` |  | return single user
+| `DELETE` | `/users` | `id` | remove user
+
+### There are already 3 users created:
+
+| Name | Password | Credentials 
+| :---:  | --- | ---   
+| `user` | `user` | User
+| `editor` | `admin` | Editor
+| `admin` | `admin` | Admin
 
 
 
