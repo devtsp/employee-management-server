@@ -15,9 +15,7 @@
 
 <br/>
 
-All following routes will have to provide a fresh `acessToken` as `'Bearer [accessToken]'` in authorization header
-
-<br/>
+**All following routes will have to provide a fresh `acessToken` as `'Bearer [accessToken]'` in authorization header**
 
 ### Employee API:
 
@@ -38,6 +36,8 @@ All following routes will have to provide a fresh `acessToken` as `'Bearer [acce
 |  `GET`   | `/users`     |              | return all users   |
 |  `GET`   | `/users/:id` |              | return single user |
 | `DELETE` | `/users`     | `id`         | remove user        |
+
+<br/>
 
 ### There are already 3 users created:
 
