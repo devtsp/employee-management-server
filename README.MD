@@ -14,6 +14,7 @@
 | `GET`  | `/logout`       |              | remove `refreshToken` from DB, clear cookie                |
 
 <br/>
+<br/>
 
 **All following routes will have to provide a fresh `acessToken` as `'Bearer [accessToken]'` in authorization header**
 
@@ -27,8 +28,6 @@
 |  `PUT`   | `/employees`     | `id, firstname, lastname` | Admin / Editor | update employee        |
 | `DELETE` | `/employees`     | `id`                      | Admin          | remove employee        |
 
-<br/>
-
 ### User API (Only Admin allowed):
 
 |  Method  | Endpoint     | Request Body | Description        |
@@ -36,8 +35,6 @@
 |  `GET`   | `/users`     |              | return all users   |
 |  `GET`   | `/users/:id` |              | return single user |
 | `DELETE` | `/users`     | `id`         | remove user        |
-
-<br/>
 
 ### There are already 3 users created:
 
