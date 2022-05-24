@@ -234,3 +234,6 @@
 24/05/2022-03:49:26	9e72292d-44ea-463c-8398-a25ff65e64f1	undefined	POST	/register
 24/05/2022-03:49:56	765d652f-b102-4d2e-9984-f14a3f9bfddc	undefined	POST	/register
 24/05/2022-03:50:15	8cd76936-2c15-442e-a2a6-669a5d6b69e0	undefined	POST	/register
+24/05/2022-04:27:42	cd59b0f2-8939-4d3a-8fe7-d3bd9e588db2	undefined	POST	/auth
+24/05/2022-04:29:56	658d82b5-6e7d-467a-9834-3285d928a7d1	undefined	GET	/employees
+24/05/2022-04:30:15	1728b53a-2ec4-4fde-8ca8-280210dd34a9	undefined	GET	/employees
